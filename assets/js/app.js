@@ -56,3 +56,5 @@ var companies = [
 	return (params.end -params.start >=12) &&(params.start >= 1990 && params.start < 1999)
  });
  console.log(result2);
+
+ ///
